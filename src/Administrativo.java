@@ -1,6 +1,7 @@
 public class Administrativo {
 
     private String codigo;
+    private String puesto;
 
     public String getCodigo() {
         return codigo;
