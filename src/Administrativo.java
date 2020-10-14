@@ -2,7 +2,7 @@ public class Administrativo {
 
     private String codigo;
     private String puesto;
-    private int edad;
+    private String edad;
 
     public String getCodigo() {
         return codigo;
